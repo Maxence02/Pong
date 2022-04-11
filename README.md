@@ -21,4 +21,6 @@ balle() :
   mouvement() :
   afficher() :
   
+  journal :
+  permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent.
   ![image](https://user-images.githubusercontent.com/90564884/161870045-68a92e9d-5db0-4484-a8cf-6bf203e9048a.png)
