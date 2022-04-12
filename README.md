@@ -7,19 +7,19 @@ je vais donc devoir creer ma balle puis mon personnage ( une barre dans le jeu )
 créer un serveur.
 
 main.py() :
-  __init__() :
-  boucle_principale() :
-  creer_message() :
+  __init__(self) :
+  boucle_principale(self) :
+  creer_message(self, font:str, message:str, taille_message:list, couleur: tuple) :
   
 joueur.py() :
-  __init__() :
-  mouvement() :
-  afficher() :
+  __init__(self, x:int, y:int, taille:list) :
+  mouvement(self, vitesse:int) :
+  afficher(self, surface:list) :
   
 balle() :
-   __init__() :
-  mouvement() :
-  afficher() :
+   __init__(self, x:int, y:int, rayon:int, direction:int) :
+  mouvement(self, vitesse_x:int, vitesse_y:int) :
+  afficher(self, surface:list) :
   
   journal :
   permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent. (06/04)
