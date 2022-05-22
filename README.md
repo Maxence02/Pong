@@ -34,6 +34,11 @@ balle() :
   creer_un_thread(self, cible):
   
  ``` 
-  journal :
-  permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent. (06/04)
   ![image](https://user-images.githubusercontent.com/90564884/161870045-68a92e9d-5db0-4484-a8cf-6bf203e9048a.png)
+
+
+journal :
+  permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent ( snake ). ( 06/04 )
+  fin du programme Pong sur un seul ordinateur sans grande difficulté car je connaissais déjà beaucoup le module pygame car j'ai déjà fait un snake avec. ( 15/05 )
+  fin du programme sur deux ordinateurs avec de grosse difficulté sur le module socket que je ne connaissais pas mais cela m'a permis de mieux voir comment les 
+  ordinateur communique entre eux. ( 23/05 )
