@@ -38,7 +38,7 @@ balle() :
 
 
 journal :
-  permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent ( snake ). ( 06/04 )
-  fin du programme Pong sur un seul ordinateur sans grande difficulté car je connaissais déjà beaucoup le module pygame car j'ai déjà fait un snake avec. ( 15/05 )
+  permier code établi en environ 2h avec peu de difficulté car ressemblant beaucoup au projet precedent ( snake ). ( 06/04 )  
+  fin du programme Pong sur un seul ordinateur sans grande difficulté car je connaissais déjà beaucoup le module pygame car j'ai déjà fait un snake avec. ( 15/05 )  
   fin du programme sur deux ordinateurs avec de grosse difficulté sur le module socket que je ne connaissais pas mais cela m'a permis de mieux voir comment les 
   ordinateur communique entre eux. ( 23/05 )
